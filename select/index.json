@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "つぐみ",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-02-28T08:35:31.723908Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "つぐみ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/01_つぐみ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "つぐみ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_つぐみ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "つぐみ",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/03_つぐみ_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "つぐみ",
+      "artist": "スピッツ Spitz",
+      "has_synced": true,
+      "path": "select/04_つぐみ_スピッツ_Spitz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "つぐみ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_つぐみ_スピッツ.txt"
+    }
+  ]
+}
